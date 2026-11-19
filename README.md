@@ -2,10 +2,12 @@
 
 ![Netgear Orbi OpenWrt Banner](./assets/banner.jpg)
 
-[![OpenWrt Support](https://img.shields.io/badge/OpenWrt-SNAPSHOT%20%28qualcommax%2Fipq807x%29-blue)](https://downloads.openwrt.org/snapshots/targets/qualcommax/ipq807x/)
-[![Verified on macOS](https://img.shields.io/badge/Verified%20On-macOS%20%28Apple%20Silicon%29-success)](https://github.com/jclehner/nmrpflash)
-[![Companion Repo: RBR850](https://img.shields.io/badge/Companion%20Repo-Netgear%20RBR850%20Router-orange)](https://github.com/laserbirdx/netgear-rbr850-openwrt)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+<p align="center">
+  <a href="https://downloads.openwrt.org/snapshots/targets/qualcommax/ipq807x/"><img src="https://img.shields.io/badge/OpenWrt-SNAPSHOT%20%28qualcommax%2Fipq807x%29-blue" alt="OpenWrt Support" /></a>
+  <a href="https://github.com/jclehner/nmrpflash"><img src="https://img.shields.io/badge/Verified%20On-macOS%20%28Apple%20Silicon%29-success" alt="Verified on macOS" /></a>
+  <a href="https://github.com/laserbirdx/netgear-rbr850-openwrt"><img src="https://img.shields.io/badge/Companion%20Repo-Netgear%20RBR850%20Router-orange" alt="Companion Repo: RBR850" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
+</p>
 
 A complete, battle-tested guide for flashing mainline **OpenWrt** onto the **Netgear Orbi RBS850** Wi-Fi 6 Tri-Band Mesh Satellite (`RBK852` / `RBK853` / `RBK854` kits) using `nmrpflash`, installing the **LuCI** web interface, and optionally **converting any RBS850 Satellite into a full standalone OpenWrt Router** (using Port 1 as WAN and Ports 2–4 as LAN with a DHCP server).
 
